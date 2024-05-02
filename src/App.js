@@ -4,7 +4,7 @@ import './App.css'; // Import CSS for styling
 
 const App = () => {
   // Initial text and search words for highlighting
-  const initialTextToHighlight = "This is some text to highlight.";
+  const initialTextToHighlight = "This is some text to highlight. Pariatur enim tempor anim non qui excepteur in irure culpa. Esse enim reprehenderit incididunt do irure ex duis. Cupidatat quis velit est tempor occaecat minim in quis. Elit consequat minim velit anim eiusmod. Eu cillum pariatur ea reprehenderit nostrud adipisicing enim. Elit proident sunt id non veniam dolore minim esse irure eiusmod. Cupidatat ipsum laboris occaecat proident anim eu proident do. Id quis tempor eiusmod consequat aliqua enim nostrud ex sit fugiat occaecat ullamco adipisicing. Adipisicing eu magna cillum nulla veniam velit adipisicing culpa quis culpa velit et do. Nostrud mollit eiusmod enim officia laborum ipsum aute quis esse reprehenderit ea ipsum eu. Voluptate amet elit pariatur officia esse est quis. Adipisicing cillum laborum commodo tempor quis tempor veniam nisi enim ex nostrud. Ex ipsum cupidatat aute reprehenderit consectetur duis. Do ipsum commodo anim id ea aliquip in minim et. Anim consectetur magna proident pariatur ex ut est laborum non aute.";
   const initialSearchWords = ["This", "i"];
 
   // State for text to highlight and search words
